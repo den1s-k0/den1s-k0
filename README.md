@@ -1,4 +1,4 @@
-# Denis Korol
+# Korol Denis
 ### Aspiring backend developer
 
 Computer Science student at Belarusian State University (BSU)
