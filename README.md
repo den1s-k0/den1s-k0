@@ -1,3 +1,9 @@
-# About me
-- 🔭 I’m currently working on summer practice
-- 🌱 I’m currently learning programming in BSU
+# Denis Korol
+### Aspiring backend developer
+
+Computer Science student at Belarusian State University (BSU)
+
+## 🛠️ Technical Skills
+-   **Programming Languages:** C++ 98, 17; Java; Assembler;
+-   **Frameworks & Libraries:** Qt, STL, JUnit
+-   **Tools:** Git, CMake, IntelliJ IDEA, Visual Studio
