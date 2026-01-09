@@ -4,6 +4,6 @@
 Computer Science student at Belarusian State University (BSU)
 
 ## 🛠️ Technical Skills
--   **Programming Languages:** C++ 98, 17; Java; Assembler;
+-   **Programming Languages:** C++ (standards 98, 11, 14, 17, 20), Java, Assembler
 -   **Frameworks & Libraries:** Qt, STL, JUnit
--   **Tools:** Git, CMake, IntelliJ IDEA, Visual Studio
+-   **Tools:** Git, CMake, SQL, IntelliJ IDEA, Visual Studio
